@@ -1,71 +1,88 @@
 <h1 align="center">Hi 👋, I'm Olabode Micheal Ayomikun</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Engineer;Rust+%7C+FastAPI;Distributed+Systems;Real-time+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Frontend+%26+Backend+Systems;React+%7C+FastAPI+%7C+Rust;Real-time+%26+Distributed+Applications" />
 </p>
 
 <p align="center">
-Backend-focused software engineer building high-performance APIs, distributed systems, and real-time applications.
+Full-stack software engineer building scalable web applications, real-time systems, and distributed backend services.
 </p>
 
 ---
 
-## 🧠 What I Work On
-- High-performance backend services
-- Distributed & event-driven systems
-- Real-time features (WebSockets, queues, background jobs)
-- Clean architecture & production-ready code
+## 🧠 What I Do
+- Build **end-to-end web applications** (frontend → backend → deployment)
+- Design **scalable backend systems** and APIs
+- Develop **interactive, high-performance UIs**
+- Implement **real-time features** and background processing
+- Focus on clean architecture and production-ready delivery
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Languages**
-- Rust, Python, TypeScript, SQL
+### Frontend
+- React, Next.js, React Native
+- Redux Toolkit, TanStack Query
+- Tailwind CSS, DnD Kit
+- Real-time UI with WebSockets
 
-**Backend**
-- FastAPI, Axum, NestJS, Express
+### Backend
+- Python (FastAPI)
+- Rust (Axum, SQLx)
+- Node.js (NestJS, Express)
 - REST APIs, GraphQL
-- Async & concurrency patterns
+- Authentication & authorization
 
-**Distributed Systems**
-- RabbitMQ, Redis
-- Background workers & event-driven workflows
+### Distributed Systems
+- RabbitMQ (event-driven workflows)
+- Redis (caching, background jobs)
+- WebSockets & async processing
 
-**Databases**
+### Databases
 - PostgreSQL, MySQL, MongoDB
+- Prisma, TypeORM, Mongoose
 
-**Cloud & Deployment**
+### Cloud & Deployment
 - AWS, Railway
+- Environment-based configs & CI-ready setups
 
 ---
 
 ## 🚀 Selected Projects
 
 ### 🔹 Real-Time Task Manager & Chat Platform
-**Rust (Axum, SQLx), React, WebSockets, WebRTC**
-- Built a full-stack real-time system with async Rust
-- Implemented WebSocket-based task & chat synchronization
-- Integrated WebRTC video calling with backend signaling
-- Designed for concurrent users and low-latency updates
+**Rust (Axum, SQLx), React, TanStack Query, WebSockets, WebRTC**
+- Built a full-stack real-time system with async Rust backend and React frontend
+- Implemented live task & chat synchronization using WebSockets
+- Integrated WebRTC video calls with backend signaling
+- Coordinated WebSocket events with frontend cache invalidation
+- Designed for concurrent users and low-latency UI updates
 
 ### 🔹 Distributed Notification Microservice System
 **NestJS, RabbitMQ, Redis, PostgreSQL**
-- Designed event-driven microservices for notifications
-- Implemented producers & consumers with RabbitMQ
+- Designed and implemented event-driven microservices
+- Built producers and consumers for async notification workflows
 - Ensured reliable message delivery and service decoupling
-- Deployed services to Railway with production configs
+- Deployed services and message broker to Railway
 
 ### 🔹 E-commerce Platform with Secure Payments
-**Node.js, PostgreSQL, Paystack**
-- Built scalable order & transaction workflows
-- Integrated Paystack with strong transaction consistency
+**React, Node.js, PostgreSQL, Paystack**
+- Built a full-stack e-commerce platform with real-time order updates
+- Integrated Paystack with robust transaction and state management
+- Improved checkout flow and payment reliability
 - Contributed to a 40% increase in transaction volume
+
+### 🔹 Drag-and-Drop Website Builder
+**React, Redux Toolkit, DnD Kit, Monaco Editor**
+- Built a visual website builder with drag-and-drop layout composition
+- Integrated Monaco Editor for inline code editing
+- Managed complex UI state with Redux Toolkit
+- Optimized performance for large component trees
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luli-tech&show_icons=true&theme=transparent" />
 </p>
