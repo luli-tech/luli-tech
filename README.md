@@ -22,8 +22,8 @@ Full-stack software engineer building scalable web applications, real-time syste
 ## ⚙️ Tech Stack
 
 ### Frontend
-- React, Next.js, React Native
-- Redux Toolkit, TanStack Query
+- React, Next.js, React Native,flutter
+- Redux Toolkit, TanStack Query,riverpod
 - Tailwind CSS, DnD Kit
 - Real-time UI with WebSockets
 
