@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Olabode Micheal Ayomikun</h1>
+<h1 align="center">Hi , I'm Olabode Micheal Ayomikun</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Frontend+%26+Backend+Systems;React+%7C+FastAPI+%7C+Rust;Real-time+%26+Distributed+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Web+And+Mobile+%26+Backend+Systems;React+%7C+FastAPI+%7C+Rust;Real-time+%26+Distributed+Applications" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@ Full-stack software engineer building scalable web applications, real-time syste
 
 ---
 
-## 🧠 What I Do
+##  What I Do
 - Build **end-to-end web applications** (frontend → backend → deployment)
 - Design **scalable backend systems** and APIs
 - Develop **interactive, high-performance UIs**
@@ -28,19 +28,20 @@ Full-stack software engineer building scalable web applications, real-time syste
 - Real-time UI with WebSockets
 
 ### Backend
-- Python (FastAPI)
-- Rust (Axum, SQLx)
-- Node.js (NestJS, Express)
-- REST APIs, GraphQL
-- Authentication & authorization
+- Python 
+- Rust 
+- GoLang
+- Node.js 
 
 ### Distributed Systems
 - RabbitMQ (event-driven workflows)
+- kafka
+- Kong
 - Redis (caching, background jobs)
 - WebSockets & async processing
 
 ### Databases
-- PostgreSQL, MySQL, MongoDB
+- PostgreSQL, MySQL, MongoDB,supabase,firebase
 - Prisma, TypeORM, Mongoose
 
 ### Cloud & Deployment
@@ -49,7 +50,7 @@ Full-stack software engineer building scalable web applications, real-time syste
 
 ---
 
-## 🚀 Selected Projects
+## Selected Projects
 
 ### 🔹 Real-Time Task Manager & Chat Platform
 **Rust (Axum, SQLx), React, TanStack Query, WebSockets, WebRTC**
@@ -82,14 +83,14 @@ Full-stack software engineer building scalable web applications, real-time syste
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luli-tech&show_icons=true&theme=transparent" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 - GitHub: https://github.com/luli-tech
 - LinkedIn: https://www.linkedin.com/in/micheal-olabode-3336341ba
 - Email: olabodemicheal5@gmail.com
