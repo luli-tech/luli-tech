@@ -19,7 +19,7 @@ Full-stack software engineer building scalable web applications, real-time syste
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - React, Next.js, React Native,flutter
